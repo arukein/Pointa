@@ -119,10 +119,10 @@ int main( void )
 	int a = 611, *ptr;
 	
 	ptr = &a;		/* ポインタの値設定 */
-	printf( "変数 a のアドレス = %p\n",        );
-	printf( "変数 a の値 = %d\n",        );
-	printf( "ポインタ ptr の値 = %p\n",        );
-	printf( "ポインタ ptr の指す値 = %d\n",        );
+	printf( "変数 a のアドレス = %p\n",_______);
+	printf( "変数 a の値 = %d\n",________);
+	printf( "ポインタ ptr の値 = %p\n",_______);
+	printf( "ポインタ ptr の指す値 = %d\n", ________);
 	
 	return 0;
 }
